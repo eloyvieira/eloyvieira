@@ -20,4 +20,4 @@ Senior Software Engineer and Software Architect with over 20 years of experience
 
 ## Where Find Me
 
-[![GitHub](https://img.shields.io/badge/eloyvieira-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/eloyvieira) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Eloy_Vieira-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eloyvieirajr/) [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:eloyvieira@gmail.com) ![Profile Views](https://komarev.com/ghpvc/?username=eloyvieira&style=flat-square&color=blue)
+[![GitHub](https://img.shields.io/badge/eloyvieira-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/eloyvieira) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Eloy_Vieira-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eloyvieirajr/) [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:eloyvieira@gmail.com) 
